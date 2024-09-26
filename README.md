@@ -1,0 +1,2 @@
+# scm-class
+class work
